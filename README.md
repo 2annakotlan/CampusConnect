@@ -12,7 +12,7 @@ Student:
 - Personalized club recommender
 
 Admin:
-- Group Fragmentation and Separation Distance Metrics
+- Group Fragmentation and Separation Distance metrics
 - Social network visualization
 - University event recommendation system
   
