@@ -8,8 +8,8 @@
 
 Student:
 - Profile creation (student interests, activities, and friends) 
-- Friend discovery and swiping
-- Personalized club recommender
+- Friend discovery and swiping system
+- Personalized club recommendation system
 
 Admin:
 - Group Fragmentation and Separation Distance metrics
