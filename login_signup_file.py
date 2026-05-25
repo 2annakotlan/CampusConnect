@@ -6,7 +6,7 @@ def get_login_signup_page():
     get_custom_css_page(alignment="center", button_span="full")
 
     # Center the title and subtitle
-    st.markdown("<h1>Better Together</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>Campus Connect</h1>", unsafe_allow_html=True)
     st.markdown("<p>Building an interconnected community</p>", unsafe_allow_html=True)
 
     # Add spacing and create two-column layout for buttons
