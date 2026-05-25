@@ -1,11 +1,18 @@
-*CampusConnect*
+**CampusConnect**
 - https://bentleycampusconnect.streamlit.app/
 
-App Overview
+**App Overview**
+- helps Bentley University create a more interconnected community by establishing a social network that provides students and university data-driven recommendations on campus connectedness
 
-helps Bentley University students chose their degree by selecting classes that interest them (email verification temporarily turned off for testing)
-App Features
+**App Features**
+Student:
+- Profile creation (student interests, activities, and friends) page
+- Friend discovery and swiping page
+- Personalized club recommender page
 
-checkboxes of classes (with hovering tooltip to view class descriptions and dropdown to filter classes)
-barcharts to display percent degree matches
-lists to display percent degree matches (with hovering toolip and hyperlink to view major / minor descriptions)
+Admin:
+- Group Fragmentation and Separation Distance Metrics
+- Social network visualization
+- University event recommendation system
+  
+
