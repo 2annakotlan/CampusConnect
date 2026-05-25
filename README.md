@@ -2,7 +2,7 @@
 - https://bentleycampusconnect.streamlit.app/
 
 **App Overview**
-- helps Bentley University create a more interconnected community by establishing a social network that provides students and university data-driven recommendations on campus connectedness
+- helps Bentley University create a more interconnected community by establishing a social network that provides students and university data-driven recommendations to improve campus connectedness
 
 **App Features**
 
