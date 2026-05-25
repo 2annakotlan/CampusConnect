@@ -28,7 +28,7 @@ def get_custom_css_page(alignment="center", button_span="full"):
         
         /* Title style */
         h1 {{
-            color: #A7D8F0;
+            color: #F28B82;
             font-family: 'Arial', sans-serif;
             font-weight: bold;
             margin-top: 20px;
@@ -43,7 +43,7 @@ def get_custom_css_page(alignment="center", button_span="full"):
         /* Button style */
         .stButton button {{
             width: {button_width};
-            background-color: #A7D8F0;
+            background-color: #F28B82;
             color: white;
             font-size: 16px;
             padding: 10px 20px;
@@ -53,7 +53,7 @@ def get_custom_css_page(alignment="center", button_span="full"):
         }}
         
         .stButton button:hover {{
-            background-color: #A7D8F0;
+            background-color: #F28B82;
         }}
         
         /* Align buttons (left or center) */
